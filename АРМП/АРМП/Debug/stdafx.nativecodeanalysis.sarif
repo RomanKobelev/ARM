@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.38.33133.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/romoc/desktop/новая папка (2)/задание 6 (экзамен)/stdafx.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "281c783ea446b96f45f1b63d44c0b5bfd83aa0ea8afaffa37b95a6ecc902314f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/romoc/desktop/новая папка (2)/задание 6 (экзамен)/stdafx.h"
+          },
+          "hashes": {
+            "sha-256": "5821ae6ff1ae6d7efa95a26ddb553b2daace5e5c28f2814808aed690ad3ad4d7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/romoc/desktop/новая папка (2)/задание 6 (экзамен)/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "432a0ab6b20bddae67b9275a19ade69b795bbe242af4f323ad845bd79cf385ff"
+          }
+        }
+      ]
+    }
+  ]
+}

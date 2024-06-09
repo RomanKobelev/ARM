@@ -1,0 +1,90 @@
+﻿  stdafx.cpp
+  Calculator.cpp
+  Задание 6 (экзамен).cpp
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Calculator.cpp(77,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Calculator.cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Calculator.cpp(95,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Calculator.cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(380,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(212,6): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(248,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(259,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(272,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(292,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(308,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(324,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(340,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(368,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(369,6): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(381,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(382,6): warning C4996: '_gcvt': This function or variable may be unsafe. Consider using _gcvt_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(421,7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(142,7): warning C4101: cTemp: неиспользованная локальная переменная
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(494,2): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(495,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(498,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(504,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(525,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(527,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(534,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(560,11): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(566,11): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(551,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Задание 6 (экзамен).cpp(541,8): warning C4101: check: неиспользованная локальная переменная
+  (компиляция исходного файла "/Задание 6 (экзамен).cpp")
+  
+  Создание кода...
+C:\Users\romoc\Desktop\Новая папка (2)\Задание 6 (экзамен)\Calculator.cpp(162): warning C4172: возвращение адреса локальной или временной переменной : out
+  Задание 6 (экзамен).vcxproj -> C:\Users\romoc\Desktop\Новая папка (2)\Debug\Задание 6 (экзамен).exe
